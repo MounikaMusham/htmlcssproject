@@ -1,0 +1,64 @@
+body{
+    background-image: url('images/background6.webp');
+    background-size: cover;
+}
+div{
+    height: 400px;
+    width: 450px;
+    box-shadow: 4px 4px rgba(128, 128, 128, 0.356);
+    margin-left: 730px;
+    margin-top: 90px;
+    border-radius: 10px;
+    background-image: linear-gradient(rgba(179, 230, 59, 0.438),rgba(238, 238, 45, 0.486),rgba(211, 211, 58, 0.445),rgba(173, 202, 46, 0.486));
+    
+}
+input{
+    height: 35px;
+    width: 300px;
+    margin-left: 70px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-bottom: 2px solid white;
+    border-left: transparent;
+    border-top: transparent;
+    border-right: transparent;
+    border-radius: 5px;
+    background: transparent;
+}
+button{
+    width: 100px;
+    height: 35px;
+    margin: 10px;
+    margin-left: 180px;
+    border: 2px solid rgba(58, 5, 68, 0.418);
+    border-radius: 5px;
+    background: transparent;
+}
+.name{
+    margin-top: 70px;
+}
+h2{
+    font-size: 100px;
+    margin-left: 380px;
+    color: rgba(32, 216, 109, 0.938);
+    text-shadow: 3px 3px grey;
+    margin-bottom: 0px;
+    margin-top: 20px;
+}
+button:hover{
+    background: rgba(25, 172, 12, 0.26);
+}
+
+p{
+color:rgb(10, 156, 10);
+font-weight: bold;
+font-style: italic;
+padding-left: 120px;
+padding-top: 10px;
+    
+}
+h3{
+    font-size: 50px;
+    margin-left: 750px;
+    
+}
